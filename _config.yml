@@ -1,4 +1,3 @@
-layout_spectrum: 0.021805089665576816
 typography_spectrum: 0.2852736711502075
 color:
   brandStrength: 0.29899624874815345
@@ -11,4 +10,11 @@ color:
     - '#FFFCE8'
     - '#3E363F'
     - '#DD403A'
+layout_spectrum: 0.021805089665576816
+author:
+  email: info@beyondeventsbali.com
+  url: www.beyondeventsbali.com
+  name: 'The Beyond Group Bali  '
+logo: null
 name: Beyond Events Bali
+title: We make dreams come true!
